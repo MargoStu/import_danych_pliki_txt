@@ -1,5 +1,5 @@
 # import_danych_pliki_txt
-.import json
+import json
 import os
 
 PLIK_DANE = "dane.json"
